@@ -1,0 +1,491 @@
+  #mine {
+    /* color: whitesmoke; */
+    margin-left: 200px;
+    padding: 8px;
+    text-shadow: red(23);
+}
+
+    #txt {
+    margin-left: 300px;
+    margin-right: 300px;
+    /* text-indent: 200px; */
+    /* border: red; */
+}
+
+/* #box {
+    margin-right: 100px;
+    /* padding: 40px; */
+    /* margin-b: 700px; */  
+} */
+
+#pad {
+    border-bottom: thin solid white;
+}
+
+/* #col {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    text-transform: capitalize;
+    color: #ffffff;
+   } */
+
+#oop {
+    border: 13px solid rgb(69, 34, 221);
+    /* background-color: whitesmoke; */
+    background-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16.5px;
+    text-transform: capitalize;
+    color: #ffffff;
+    word-spacing: 3px;
+    padding: 5px;
+}
+
+#img {
+    background-color: black;
+    margin-top: -20px;
+    margin-left: -40px;
+    
+}
+
+#upp {
+    /* border-bottom: thin solid black; */
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+    color: blue "important";
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 700px;
+    word-spacing: 20px;
+}
+
+#test {
+    font-family: "Calibre", system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    font-size: 50px;
+    font-weight: 600px;
+    font-variant: oblique;
+    text-transform: capitalize;
+    color: white;
+    /* border: thick solid red; */
+}
+
+#class{
+      font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+#robot {
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    font-weight: bold;
+    /* margin-right: 400px; */
+    /* text-indent: -300px; */
+    position: relative;
+    max-width: 800px;
+    max-inline-size: 900px;
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    /* border: thick solid red; */
+}
+
+#bot {
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    /* margin-right: 400px; */
+    /* text-indent: 300px; */
+    line-height: 30px   ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    max-width: 800px;
+    /* left: px; */
+    max-inline-size: 900px;
+    color: white;
+    font-size: 19px;
+    /* border: thick solid red; */
+    text-align: left;
+}
+
+#lor {
+    /* position: relative;
+    max-width: 800px;
+    max-inline-size: 900px; */
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#LOR {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#rem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    margin-top: 90px;
+    color: white;
+    text-align: left;
+}
+
+#f {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#g {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#G {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+#h {
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 20px; */
+    margin-top: 90px;
+    color: white;
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#i {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 40px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#j {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#J {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+#k {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#l {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#m {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#M {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+#n {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#o {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    line-height: 30px;
+    /* font-size: larger; */
+}
+
+#p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#P {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    /* text-align: right; */
+    margin-left: 20px;
+}
+
+#q {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#r {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#s {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#S {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+#u {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#v {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18.5px;
+    line-height: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#w{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#W {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+#x {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#y {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#z {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+
+#Z {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+#zi {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#zii {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    font-size: 19px;
+}
+
+#E {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#LL {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+#A {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#B {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-top: 20px; 
+    color: white;
+    text-align: left;
+}
+
+#C {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+#MM {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+#Number {
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    text-align: center;
+    font-size: 20px;
+}
+
+#Done {                                                                      
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: black;
+    margin-top: 100px;
+    color: #ffffff;
+    border: 2px solid white;
+    /* border-radius: 10px; */
+    /* background-color: #ffffff; */
+    padding: 30px;
+    text-align: center;
+    font-size: 19px;
+}
+
+#signup {
+    border-radius: 10px;
+    /* border-color: white; */
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#box {
+    /* padding: 30px; */
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 85%;
+    display: flex;
+    margin: 2rem auto;
+    font-size: 20px;
+}
+
+#box ul {
+    list-style-type: none;
+    width: 50%;
+}
+
+#box li {
+    margin: 0.5rem 0;
+}
+
+#pri {
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: larger;
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: yellowgreen;
+    text-decoration-style: dotted;
+}
+a:hover {
+    color: red;
+}
+
+.emmhy {
+    color: yellowgreen;
+}
+.emmhy:hover {
+    color: red;
+}
+
+.emmhyluv {
+    color: green;
+}
